@@ -74,3 +74,9 @@ canvas {
         transform: scale(1);
     }
 }
+#swal2-content {
+    color: white;
+}
+#swal2-title {
+    color: white;
+}
